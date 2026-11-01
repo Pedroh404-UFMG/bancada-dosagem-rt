@@ -1,0 +1,13 @@
+# Arduino / ESP32
+.build/
+build/
+*.bin
+
+# CODESYS / Temp files
+*.bak
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.env
