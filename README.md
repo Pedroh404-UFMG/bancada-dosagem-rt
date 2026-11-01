@@ -1,6 +1,6 @@
 # Bancada Didática de Baixo Custo para Armazenagem, Dosagem e Empilhamento de Granulados
 
-![Legenda da foto](bancada-dosagem-rt/imagens/foto_bancada_montade.jpg)
+!(imagens/foto_bancada_montada.jpg)
 
 Repositório oficial dos códigos-fonte e arquivos de integração do Projeto Final de Curso (PFC) do curso de Engenharia de Controle e Automação da Universidade Federal de Minas Gerais (UFMG).
 
