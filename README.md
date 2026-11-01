@@ -20,5 +20,5 @@ Este projeto desenvolve e valida experimentalmente uma arquitetura de controle d
 
 ## 👤 Autor
 * **Pedro Henrique Silva Lima**
-* *Orientador:* Prof. Dr. viscoelastic Leandro Freitas de Abreu
-* *Instituição:* Universidade Federal de Minas Gerais (UFMG) - Escola de Engenharia (DELT)
+* **Orientador:** Prof. Dr. viscoelastic Leandro Freitas de Abreu
+* **Instituição:** Universidade Federal de Minas Gerais (UFMG) - Departamento de Engenharia Elétrica (DELT)
