@@ -15,10 +15,10 @@
 #define PIN_SERVO   13
 
 // Pinos Ponte H L298N
-#define IN1 26 // Esteira (TT)
-#define IN2 27 // Esteira (TT)
-#define IN3 14 // N20 (Rotação)
-#define IN4 12 // N20 (Rotação)
+#define IN1 26 // Tração da Cinta da Esteira (Motor N20)
+#define IN2 27 // Tração da Cinta da Esteira (Motor N20)
+#define IN3 14 // Movimento Translacional / Giro para Caixas (Motor TT)
+#define IN4 12 // Movimento Translacional / Giro para Caixas (Motor TT)
 
 // ==========================================
 // PARÂMETROS DE CALIBRAÇÃO E FILTRAGEM ASSIMÉTRICA
